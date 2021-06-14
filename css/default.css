@@ -1,0 +1,57 @@
+.main{
+	font-size:26px;
+	margin-top:10px;
+}
+.all{
+	margin:20px auto;
+	padding:auto;
+	position:relative;
+	width:400px;
+	text-align:center;
+	border:1px solid #CCC;
+	border-radius:3px;
+}
+.container{
+	padding:15px 30px;
+}
+.container table {
+	border-spacing: 0px;	
+}
+.container input[type="text"]{
+	padding:3px;
+	width:340px;
+	margin:5px 0 10px 0;
+}
+.container input[type="submit"]{
+	padding:5px 10px;
+}
+.container table td{
+	padding:5px;
+	text-align: center;
+	border: 1px solid #E4CA7D;
+}
+.left{
+	text-align:left;
+}
+.right{
+	text-align:right;
+}
+.answer{
+	display:none;
+	margin-top:20px;
+	width:330px;
+	background-color:#DAE8FC;
+	padding:5px;
+	border:1px solid #95AFD4;
+	border-radius:3px;
+}
+.ans_text{
+	background-color:#FFF2CC;
+	margin:15px;
+	padding:5px;
+	border:1px solid #E4CA7D;
+	border-radius:3px;
+}
+table.ans_text{
+	padding:0;
+}
